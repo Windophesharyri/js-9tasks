@@ -1,0 +1,82 @@
+/* 1) */
+.wrld {
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+/* 2) */
+.insert {
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+/* 3) */
+.modifierAction {
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+/* 4) */
+.Swap {
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+/* 5) */
+.unlock {
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+.lock {
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+/* 6) */
+.hider {
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+#square {
+    margin-bottom: 20px;
+    background-color: black;
+
+    width: 100px;
+    height: 100px;
+}
+/* 7) */
+#changeColour {
+    margin-top: 20px;
+    background-color: red;
+
+    width: 100px;
+    height: 100px;
+}
+/* 8) */
+#firstSquare {
+    margin-top: 20px;
+    background-color: red;
+
+    width: 50px;
+    height: 50px;
+}
+#secondSquare {
+    margin-top: 20px;
+    background-color: red;
+
+    width: 50px;
+    height: 50px;
+}
+#thirdSquare {
+    margin-top: 20px;
+    background-color: red;
+
+    width: 50px;
+    height: 50px;
+}
+#fourthSquare {
+    margin-top: 20px;
+    background-color: red;
+
+    width: 50px;
+    height: 50px;
+}
+/* 9) */
+.calculator {
+    margin-top: 20px;
+}
